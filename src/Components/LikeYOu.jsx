@@ -13,7 +13,7 @@ export const LikeYOu = () => {
             >
               <div class="overflow-hidden">
                 <img
-                  src="assets/imagen11.jpeg"
+                  src="assets/imagen22.jpg"
                   alt="."
                   class="w-full h-80 object-cover rounded-lg transform transition duration-500 group-hover:scale-110"
                 />
@@ -30,7 +30,7 @@ export const LikeYOu = () => {
             >
               <div class="overflow-hidden">
                 <img
-                  src="assets/imagen11.jpeg"
+                  src="assets/imagen13.jpg"
                   alt="."
                   class="w-full h-80 object-cover rounded-lg transform transition duration-500 group-hover:scale-110"
                 />
@@ -47,7 +47,7 @@ export const LikeYOu = () => {
             >
               <div class="overflow-hidden">
                 <img
-                  src="assets/imagen11.jpeg"
+                  src="assets/imagen15.jpg"
                   alt="."
                   class="w-full h-80 object-cover rounded-lg transform transition duration-500 group-hover:scale-110"
                 />
@@ -64,7 +64,7 @@ export const LikeYOu = () => {
             >
               <div class="overflow-hidden">
                 <img
-                  src="assets/imagen11.jpeg"
+                  src="assets/imagen19.jpg"
                   alt="."
                   class="w-full h-80 object-cover rounded-lg transform transition duration-500 group-hover:scale-110"
                 />
@@ -81,7 +81,7 @@ export const LikeYOu = () => {
             >
               <div class="overflow-hidden">
                 <img
-                  src="assets/imagen11.jpeg"
+                  src="assets/imagen20}.jpg"
                   alt="."
                   class="w-full h-80 object-cover rounded-lg transform transition duration-500 group-hover:scale-110"
                 />
@@ -98,7 +98,7 @@ export const LikeYOu = () => {
             >
               <div class="overflow-hidden">
                 <img
-                  src="assets/imagen11.jpeg"
+                  src="assets/imagen21.jpg"
                   alt="."
                   class="w-full h-80 object-cover rounded-lg transform transition duration-500 group-hover:scale-110"
                 />
@@ -115,7 +115,7 @@ export const LikeYOu = () => {
             >
               <div class="overflow-hidden">
                 <img
-                  src="assets/imagen11.jpeg"
+                  src="assets/imagen16.jpg"
                   alt="."
                   class="w-full h-80 object-cover rounded-lg transform transition duration-500 group-hover:scale-110"
                 />
@@ -132,7 +132,7 @@ export const LikeYOu = () => {
             >
               <div class="overflow-hidden">
                 <img
-                  src="assets/imagen11.jpeg"
+                  src="assets/imagen17.jpg"
                   alt="."
                   class="w-full h-80 object-cover rounded-lg transform transition duration-500 group-hover:scale-110"
                 />
@@ -151,7 +151,7 @@ export const LikeYOu = () => {
             >
               <div class="overflow-hidden">
                 <img
-                  src="assets/imagen11.jpeg"
+                  src="assets/imagen18.jpg"
                   alt="."
                   class="w-full h-80 object-cover rounded-lg transform transition duration-500 group-hover:scale-110"
                 />
