@@ -5,11 +5,11 @@ export const Texto14 = () => {
     <div>
         <section className="h-[40rem] bg-imagen8 bg-cover bg-center flex items-center justify-center ">
           <h1 className=" font-Raleway font-semibold	 text-transparent bg-gradient-to-r from-rose-500 via-rose-600 to-rose-500 bg-clip-text text-4xl sm:text-9xl  ">
-            Feliz 14 de febrero
+            FELIZ 14 DE FEBRERO
           </h1>
         </section>
         <section className=" px-28 py-24 bg-[#EEDBBF]  border-b-2 border-[#67191F]">
-          <h1 className=" text-4xl sm:text-6xl pb-14 font-Raleway text-[#67191F-] ">
+          <h1 className=" text-4xl sm:text-6xl pb-14 font-Raleway text-[#67191F] ">
             ¿Puedes adivinar quien escribio esto ???
           </h1>
           <p className="text-xl sm:text-2xl font-Raleway ">

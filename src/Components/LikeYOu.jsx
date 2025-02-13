@@ -2,9 +2,9 @@ import React from 'react'
 
 export const LikeYOu = () => {
   return (
-    <div className='flex justify-center items-center pt-'>
+    <div className='flex justify-center items-center'>
         <section className=''>
-          <h1>Cosas que le gustan a la chica snoopy </h1>
+          <h1 className='text-center py-14 text-6xl font-Raleway text-[#67191F] font-semibold	'>Cosas que le gustan a la chica snoopy </h1>
           <div class="grid grid-cols-3 gap-8  ">
             <a
               href=""

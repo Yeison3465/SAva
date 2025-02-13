@@ -23,10 +23,7 @@ export const App = () => {
         <LikeYOu />
 
 
-        <h1>
-          Y bueno... muchas cosa mas por agregar, pero nos quedamos sin
-          espacio ya que tu eres lleno Alegria y esfuerzo
-        </h1>
+       
 
       </main>
       <footer>

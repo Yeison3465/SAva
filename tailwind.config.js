@@ -9,6 +9,7 @@ export default {
       backgroundImage: {
         'imagen8': "url('assets/imagen8.jpeg')",
         'imagen9': "url('assets/Download.mp4')",
+        'video11': "url('assets/video1.mp4')",
       },
     },
   },
