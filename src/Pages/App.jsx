@@ -8,9 +8,7 @@ import { Historia } from "../Components/Historia";
 import { LikeYOu } from "../Components/LikeYOu";
 import { BotonNext } from "../Components/BotonNext";
 
-
 export const App = () => {
-  
   return (
     <div>
       <Header />
@@ -21,13 +19,10 @@ export const App = () => {
         <Video />
         <Historia />
         <LikeYOu />
-
-
-       
-
       </main>
       <footer>
-        <BotonNext/>
+        <audio src="assets/aundio1.mp3" autoPlay loop volume="1" />
+        <BotonNext />
       </footer>
     </div>
   );
