@@ -7,7 +7,7 @@ export default {
         Raleway: ["Raleway"],
       },
       backgroundImage: {
-        imagen8: "url('assets/imagen8.jpeg')",
+        imagen8: "url('public/assets/imagen8.jpeg')",
         imagen9: "url('assets/xxx.jpeg')",
         video11: "url('assets/video1.mp4')",
       },
