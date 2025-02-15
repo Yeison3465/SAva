@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react'
 
-export const Video = () => {
+export const Cine = () => {
   return (
     <div>
         <section className="relative h-screen overflow-hidden">
@@ -14,5 +14,5 @@ export const Video = () => {
             </video>
         </section>
     </div>
-  );
-};
+  )
+}
