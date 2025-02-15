@@ -16,7 +16,7 @@ export const App = () => {
       <main>
         <Texto14 />
         <GirarP />
-        <Video />
+        
         <Historia />
         <LikeYOu />
       </main>
