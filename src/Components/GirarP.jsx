@@ -15,7 +15,7 @@ export const GirarP = () => {
         </div>
         <div className="flex justify-center items-center ">
           <img
-            src="public/assets/imagen35.png"
+            src="assets/imagen35.png"
             alt=""
             className="w-80 h-80 transform transition-transform duration-500 hover:-rotate-45"
           />

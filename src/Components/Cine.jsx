@@ -10,7 +10,7 @@ export const Cine = () => {
             controls
             className="absolute z-10 w-full h-full object-cover"
             >
-            <source src="public\assets\Download.mp4" type="video/mp4" />
+            <source src="assets/Download.mp4" type="video/mp4" />
             </video>
         </section>
     </div>
