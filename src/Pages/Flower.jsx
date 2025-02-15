@@ -15,13 +15,17 @@ export const Flower = () => {
         Tu navegador no soporta el video HTML5.
       </video>
 
-      
       <div className="absolute z-10 text-center top-1/4 h-[35rem]">
         <h1 className="text-white font-Raleway font-extrabold text-7xl animate-typewriter overflow-hidden whitespace-nowrap border-r-4 ">
           Es un honor para mí invitarte a disfrutar <br />
           de una comida juntos. ¿Aceptarías mi invitación?
         </h1>
-        <p className="text-rose-600 font-Raleway font-extrabold text-2xl animate-typewriter overflow-hidden whitespace-nowrap border-r-4 pt-8">Mira las imagenes de abajo tienen un mesaje</p>
+        <p className="text-rose-600 font-Raleway font-extrabold text-2xl animate-typewriter overflow-hidden whitespace-nowrap border-r-4 pt-8">
+          Mira las imagenes de abajo tienen un mesaje
+        </p>
+        <div className="flex justify-center">
+          <audio src="assets/audio2.mp3" autoPlay loop  volume="0.5" controls/>
+        </div>
         <div className="pt-20">
           <button
             class="overflow-hidden font-Raleway w-44 p-2 h-12 bg-red-600 text-white border-none rounded-md text-xl font-bold cursor-pointer relative z-10 group"
@@ -45,7 +49,7 @@ export const Flower = () => {
             className="w-48 h-48 object-cover rounded-lg shadow-lg transform transition-transform duration-500 hover:scale-110 animate-fadeUp"
           />
           <div className="absolute inset-0 flex items-center justify-center bg-red-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white font-bold rounded-lg shadow-lg text-xl font-Raleway">
-            Quieres 
+            Quieres
           </div>
         </div>
 
@@ -98,7 +102,7 @@ export const Flower = () => {
             className="w-48 h-48 object-cover rounded-lg shadow-lg transform transition-transform duration-500 hover:scale-110 animate-fadeUp delay-75"
           />
           <div className="absolute inset-0 flex items-center justify-center bg-pink-300 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white font-bold rounded-lg shadow-lg text-xl">
-          crepes a waffles
+            crepes a waffles
           </div>
         </div>
         <div className="relative group">
@@ -119,7 +123,7 @@ export const Flower = () => {
             className="w-48 h-48 object-cover rounded-lg shadow-lg transform transition-transform duration-500 hover:scale-110 animate-fadeUp delay-75"
           />
           <div className="absolute inset-0 flex items-center justify-center bg-pink-300 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white font-bold rounded-lg shadow-lg text-xl font-Raleway">
-            Yo 
+            Yo
           </div>
         </div>
         <div className="relative group">
@@ -129,7 +133,7 @@ export const Flower = () => {
             className="w-48 h-48 object-cover rounded-lg shadow-lg transform transition-transform duration-500 hover:scale-110 animate-fadeUp"
           />
           <div className="absolute inset-0 flex items-center justify-center bg-red-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white font-bold rounded-lg shadow-lg text-xl font-Raleway">
-            escojo el 
+            escojo el
           </div>
         </div>
 
@@ -143,8 +147,6 @@ export const Flower = () => {
             Sitio
           </div>
         </div>
-
-        
       </div>
     </div>
   );

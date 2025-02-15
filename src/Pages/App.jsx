@@ -21,7 +21,7 @@ export const App = () => {
         <LikeYOu />
       </main>
       <footer>
-        <audio src="assets/aundio1.mp3" autoPlay loop volume="1" />
+        
         <BotonNext />
       </footer>
     </div>
